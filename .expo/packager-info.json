@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19000,
+  "webpackServerPort": null,
+  "expoServerNgrokUrl": "https://p4-rik.anonymous.homerental.exp.direct",
+  "packagerNgrokUrl": "https://packager.p4-rik.anonymous.homerental.exp.direct",
+  "ngrokPid": 3619,
+  "packagerPid": null
+}
